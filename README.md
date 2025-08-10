@@ -3,13 +3,13 @@
 A comprehensive Excel VBA macro system for tracking job applications with an intuitive button-based interface and color-coded status management.
 
 🚀 Features
-> Complete Job Tracking: Track company, position, employment type, work location, and shift preferences
-> Status Management: Color-coded status tracking from application to offer/rejection
-> One-Click Interface: Easy-to-use buttons for all functions
-> Smart Validation: Dropdown menus ensure consistent data entry
-> Follow-up Reminders: Set and track follow-up dates
-> Status Reports: Generate summary reports of your application progress
-> Data Safety: Confirmation dialogs prevent accidental data loss
+- Complete Job Tracking: Track company, position, employment type, work location, and shift preferences
+- Status Management: Color-coded status tracking from application to offer/rejection
+- One-Click Interface: Easy-to-use buttons for all functions
+- Smart Validation: Dropdown menus ensure consistent data entry
+- Follow-up Reminders: Set and track follow-up dates
+- Status Reports: Generate summary reports of your application progress
+- Data Safety: Confirmation dialogs prevent accidental data loss
 
 📊 Track Everything
 > Core Information
@@ -84,31 +84,31 @@ Adding Applications
 3. Application is automatically added with color coding
 
 Managing Applications
-> Update Status: Use Application ID to change status
-> Set Reminders: Add follow-up dates to track when to contact employers
-> Generate Reports: View summary statistics of your job search progress
+- Update Status: Use Application ID to change status
+- Set Reminders: Add follow-up dates to track when to contact employers
+- Generate Reports: View summary statistics of your job search progress
 
 Data Management
-> Export: Copy data to other applications
-> Backup: Save copies of your .xlsm file regularly
-> Clear: Use "Clear All Data" for fresh starts while keeping the structure
+- Export: Copy data to other applications
+- Backup: Save copies of your .xlsm file regularly
+- Clear: Use "Clear All Data" for fresh starts while keeping the structure
 
 🎨 Color Coding System
 The status column uses text colors to help you quickly identify application stages:
-> 🔵 Applied - Initial submissions
-> 🟠 Phone Screen - Active screening process
-> 🔴 Interview Scheduled - Confirmed interviews
-> 🟣 Interviewed - Waiting for results
-> 🟤 Follow-up - Following up on applications
-> 🟢 Offer - Successful applications
-> 🔴 Rejected - Closed applications
-> ⚫ Withdrawn - Self-removed applications
+- 🔵 Applied - Initial submissions
+- 🟠 Phone Screen - Active screening process
+- 🔴 Interview Scheduled - Confirmed interviews
+- 🟣 Interviewed - Waiting for results
+- 🟤 Follow-up - Following up on applications
+- 🟢 Offer - Successful applications
+- 🔴 Rejected - Closed applications
+- ⚫ Withdrawn - Self-removed applications
 
 🛡️ Safety Features
-> Confirmation Dialogs: Prevents accidental data deletion
-> Input Validation: Dropdown menus ensure consistent data
-> Auto-Backup: Excel's auto-save protects your work
-> Structure Preservation: Clear function keeps headers and formatting
+- Confirmation Dialogs: Prevents accidental data deletion
+- Input Validation: Dropdown menus ensure consistent data
+- Auto-Backup: Excel's auto-save protects your work
+- Structure Preservation: Clear function keeps headers and formatting
 
 📁 File Structure
 your-excel-file.xlsm
@@ -134,6 +134,6 @@ your-excel-file.xlsm
   - Solution: Ensure your file is saved as .xlsm format (macro-enabled)
 
 🙏 Acknowledgments
-> Designed for job seekers who want to stay organized
-> Built with Excel VBA for maximum compatibility
-> Inspired by the need for simple, effective job tracking
+- Designed for job seekers who want to stay organized
+- Built with Excel VBA for maximum compatibility
+- Inspired by the need for simple, effective job tracking
